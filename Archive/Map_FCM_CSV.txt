@@ -1,0 +1,9 @@
+﻿select RAW disk
+online 
+initialize
+format w/o drive letter
+assign name
+FCM add disk
+FCM rename disk
+FCM change to CSV
+C:\clusterstorage rename "volume 1" pointer to name of disk
